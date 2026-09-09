@@ -116,3 +116,5 @@ volumes:
   cache:
     driver: local
 console.log {web application}
+
+console.log (applogs)
